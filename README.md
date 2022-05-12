@@ -1,13 +1,13 @@
 <ul>
   <li>
-    <h3>Calendar</h3>
+    <h2>Calendar</h2>
     <p>
       <img src="https://github.com/NotGasaiYuno/HTML-CSS-JS/blob/main/Attachments/Calendar/1.png" width="49.5%" />
       <img src="https://github.com/NotGasaiYuno/HTML-CSS-JS/blob/main/Attachments/Calendar/2.png" width="49.5%" />
     </p>
   </li>
   <li>
-    <h3>Forum</h3>
+    <h2>Forum</h2>
     <p>
       <img src="https://github.com/NotGasaiYuno/HTML-CSS-JS/blob/main/Attachments/Forum/1.png" width="49.5%" />
       <img src="https://github.com/NotGasaiYuno/HTML-CSS-JS/blob/main/Attachments/Forum/2.png" width="49.5%" />
@@ -15,7 +15,7 @@
     </p>
   </li>
   <li>
-    <h3>Gallery</h3>
+    <h2>Gallery</h2>
     <p>
       <img src="https://github.com/NotGasaiYuno/HTML-CSS-JS/blob/main/Attachments/Gallery/1.png" width="49.5%" />
       <img src="https://github.com/NotGasaiYuno/HTML-CSS-JS/blob/main/Attachments/Gallery/2.png" width="49.5%" />
@@ -23,7 +23,7 @@
     </p>
   </li>
   <li>
-    <h3>Text editor</h3>
+    <h2>Text editor</h2>
     <p>
       <img src="https://github.com/NotGasaiYuno/HTML-CSS-JS/blob/main/Attachments/TextEditor/1.png" width="49.5%" />
       <img src="https://github.com/NotGasaiYuno/HTML-CSS-JS/blob/main/Attachments/TextEditor/2.png" width="49.5%" />
