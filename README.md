@@ -1,6 +1,3 @@
-<h1 align="center">
-  Small test projects using HTML, CSS, JavaScript
-</h1>
 <ul>
   <li>
     <h3>Calendar</h3>
